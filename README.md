@@ -41,6 +41,3 @@ All kod är kommenterad och går att köra rakt av i MySQL/MariaDB.
 Jag valde den här designen för att den är enkel att förstå men ändå tillräckligt robust för en riktig bokhandel. Separata tabeller för orderrader gör det lätt att hantera flera böcker per order och triggarn som minskar lagret känns naturlig i en verklig miljö.
 
 
-Add content to README.md and remove duplicate
-
-
